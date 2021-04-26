@@ -83,3 +83,13 @@ p{
     background-color: dodgerblue;
     
 }
+a{
+    text-decoration: none;
+    
+}
+.article:hover{
+    color:fuchsia;
+}
+html{
+    scroll-behavior: smooth;
+}
